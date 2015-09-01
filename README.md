@@ -1,1 +1,1 @@
-This project contains kinds of algorithm. 
+This project contains kinds of algorithm. Hehe 
