@@ -112,10 +112,14 @@ public class SortAlgorithm
 
 	/**
 	 *希尔排序(Shell Sort)
-	 *1. 
+	 *1.将有n个元素的数组分成n/2个数字序列，第1个数据和第n/2+1个数据为一对，.....
+	 *2.一次循环使每个序列对排好序。
+	 *3.然后再变成n/4个序列，再次排序。
+	 *4.不断重复上述过程，随着序列的减少，最后变为一个，也就完成了整个排序。
+	*/ 
 	public void shellShort(int[] a)
 	{
-
+		
 	}
 	
 	private void printArray(int[] a)
